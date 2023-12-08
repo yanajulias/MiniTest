@@ -1,1 +1,1 @@
-This repository is supposed to complete an interview.
+This repository is used to complete an interview test.
