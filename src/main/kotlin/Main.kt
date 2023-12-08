@@ -7,7 +7,7 @@ fun main() {
             i % 3 == 0 && i % 5 == 0 -> print(" FooBar,")
             i % 3 == 0 -> print(" Foo,")
             i % 5 == 0 -> print(" Bar,")
-            else -> print(" $i, ")
+            else -> print(" $i,")
         }
     }
 }
